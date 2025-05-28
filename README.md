@@ -39,8 +39,7 @@ I am a cybersecurity professional with practical expertise in offensive and defe
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=harish14525&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish14525&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
+  </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish14525&theme=dark" alt="GitHub Streak" width="48%" />
