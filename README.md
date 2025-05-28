@@ -10,36 +10,29 @@
 
 ## 🧩 About Me
 
-I’m a cybersecurity enthusiast focused on offensive and defensive security, with experience in blockchain development. My work spans vulnerability assessments, penetration testing, attack simulation, and decentralized application (DApp) development.
-
-- Bachelor’s in Computer Science (Cybersecurity Specialization)  
-- Hands-on experience in blockchain technologies and smart contracts  
-- Over 50 documented labs in system, web, and network security  
-- Preparing for a Master's in Cybersecurity and industry certifications
+I am a cybersecurity professional skilled in offensive and defensive security methodologies, specializing in vulnerability assessments, penetration testing, and blockchain development. My expertise includes designing and implementing secure systems, detecting and mitigating threats, and developing decentralized applications.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔧 Core Competencies
 
-- **Security:** Nmap, Metasploit, sqlmap, Hydra, John the Ripper, Burp Suite, Nikto, Gobuster  
-- **SIEM & Monitoring:** Wazuh, Splunk, Snort, Zabbix  
-- **Operating Systems:** Kali Linux, Windows, Ubuntu  
-- **Cloud:** AWS (EC2, IAM, VPC, S3)  
-- **Blockchain:** Solidity, Ethereum, Smart Contracts, DApps  
-- **Programming & Web:** Bash, Python, C, Java, HTML, CSS, JavaScript  
+- Advanced penetration testing and exploit development  
+- Security monitoring and incident response using SIEM tools  
+- Blockchain architecture, smart contract development, and DApps  
+- Cloud security with hands-on experience in AWS environments  
+- Secure coding practices and web application security  
+- Network protocol analysis and threat hunting
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-- **ZeroBank VAPT** – Infrastructure and web app exploitation with remediation  
-- **DVWA & Mutillidae Attacks** – SQL Injection, XSS, full database extraction  
-- **Windows Exploitation** – EternalBlue (MS17-010), Active Directory access  
-- **VSFTPD Backdoor Exploit** – Root access via Metasploit payload  
-- **Blockchain DApp** – Developed decentralized applications using Solidity and Ethereum  
-- **SIEM Log Analysis** – Attack detection using Wazuh
+- Infrastructure and web application vulnerability assessments  
+- Exploitation of advanced Windows and Linux system vulnerabilities  
+- Development of blockchain-based decentralized applications  
+- Implementation of security monitoring with Wazuh and Splunk  
 
-Explore repositories for detailed walkthroughs and code.
+For detailed project insights, please explore my repositories.
 
 ---
 
